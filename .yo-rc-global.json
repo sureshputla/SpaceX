@@ -1,0 +1,7 @@
+{
+  "generator-jhipster:6.6.0": {
+    "promptValues": {
+      "packageName": "in.spacex"
+    }
+  }
+}
